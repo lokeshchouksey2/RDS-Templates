@@ -1,6 +1,6 @@
 Click the button below to deploy:
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FRDS-Templates%2Fmaster%2FARM-wvd-templates%2FAddVirtualMachinesToHostPool%2FAddVirtualMachinesTemplate.json" target="_blank">
+<a   href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/lokeshchouksey2/Vnextdaas/0e367e1ebf7847f2c8139494102e678fcc402513/template.json?token=GHSAT0AAAAAABVZV4YYPWJ4BHERLWTKCUXKYV25XIQ" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FRDS-Templates%2Fmaster%2FARM-wvd-templates%2FAddVirtualMachinesToHostPool%2FAddVirtualMachinesTemplate.json" target="_blank">
